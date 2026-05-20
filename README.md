@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">Welcome to my Portfolio</h1>
 
-<!--
-**Dumoteyim/Dumoteyim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is  Dumoteyim Abiye-Suku and I am a passionate Data Analyst with experience in collecting, analyzing, and interpreting data to support business decisions. Skilled in SQL, Excel, Python, and data visualization tools like Microsoft Power BI and Tableau, I enjoy transforming complex datasets into meaningful insights. I have strong analytical and problem-solving abilities, with a focus on improving performance, identifying trends, and driving data-driven strategies.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left"></h2>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
