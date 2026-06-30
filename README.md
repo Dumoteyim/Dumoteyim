@@ -22,3 +22,6 @@
 </div>
 
 ###
+
+### Excel Project
+This project shows the Customers sales Performances over a period of time from 2011 -2014.[View Project](https://github.com/Dumoteyim/Customer-Sales-Performances/tree/main)
