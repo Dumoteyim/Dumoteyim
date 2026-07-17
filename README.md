@@ -160,6 +160,28 @@ https://github.com/Dumoteyim/Product-Performance-Report
 
 ---
 
+## HR Attrition Analytics Dashboard
+
+An interactive Microsoft Excel dashboard developed to analyze employee attrition across departments, job roles, age groups, education levels, and workforce demographics. The project provides actionable HR insights that support employee retention strategies and data-driven workforce planning.
+
+### Highlights
+
+- Employee Attrition Analysis
+- Department Performance Analysis
+- Job Role Attrition Analysis
+- Age & Demographic Insights
+- Education & Marital Status Analysis
+- Job Satisfaction Metrics
+- Executive KPI Dashboard
+- Business Insights & Recommendations
+
+🔗 **Project Link**
+
+https://github.com/Dumoteyim/HR-ATTRITION-ANALYTICS-PROJECT
+
+---
+
+
 #  Articles & Learning Journey
 
 I believe that learning is most impactful when knowledge is shared. As I continue my journey in **Data Analytics**, **Business Intelligence**, and **Data Visualization**, I document what I learn through practical, beginner-friendly articles on Medium.
